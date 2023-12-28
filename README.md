@@ -1,4 +1,3 @@
-
 <p align="center">Hello 👋, I'm Gabriel Affonso, a beginner React Native developer. <br><br> I'm passionate about learning and currently focused on mastering React Native. Excited to explore and create high-quality mobile applications!</p>&nbsp;
 
 ## My Skills
@@ -13,6 +12,7 @@
 #### Studying in this moment:
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/VScode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -25,7 +25,7 @@
 <div> 
 <a href="https://www.instagram.com/gabriel.affonsohp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "gabrielhaffonsop@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:gabrielhaffonsop@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-affonso-800083240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
